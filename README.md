@@ -1,6 +1,6 @@
 # Hi, I'm David
 
-Data and Systems Science student based in Stockholm, Sweden.
+Computer and Systems Science student based in Stockholm, Sweden.
 
 I'm interested in software development and building practical solutions to real-world problems. I enjoy learning new technologies, exploring how systems work, and applying my knowledge through personal and academic projects.
 
